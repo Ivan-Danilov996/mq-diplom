@@ -101,9 +101,11 @@ h1,
 
 .apple__logo {
   width: 20px;
+  height: 24px;
 }
 .google__logo {
   width: 22px;
+  height: 24px;
 }
 
 .store__apple__text,
@@ -441,9 +443,11 @@ section {
   }
   .apple__logo {
     width: 36px;
+    height: 43px;
   }
   .google__logo {
     width: 41px;
+    height: 45px;
   }
   .store__apple__text,
   .store__google__text {
@@ -668,9 +672,11 @@ section {
   }
   .apple__logo {
     width: 36px;
+    height: 43px;
   }
   .google__logo {
     width: 41px;
+    height: 45px;
   }
   .store__apple__text,
   .store__google__text {
